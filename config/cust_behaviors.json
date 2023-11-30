@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "&gqt",
+		"name": "&gqt",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
