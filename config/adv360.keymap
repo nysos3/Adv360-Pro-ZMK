@@ -73,7 +73,7 @@
   &none        &trans        &kp AT      &kp LBRC      &kp RBRC         &none            &bootloader                                                                 &bootloader    &kp BSLH         &kp GRAVE      &kp STAR      &kp EXCL   &kp FSLH    &trans
   &none      &kp HASH    &kp DOLLAR      &kp LPAR      &kp RPAR       &kp TAB                 &trans   &none  &trans                      &trans  &trans  &rgb_ug RGB_MEFS_CMD 5   &kp EQUAL            &kp LT        &kp GT      &kp PIPE  &kp TILDE  &kp FSLH
  &trans   &kp PERCENT     &kp CARET      &kp LBKT      &kp RBKT      &kp LGUI                                 &trans                      &trans                                    &kp AMPS         &kp TILDE        &trans        &trans     &trans    &trans
- &trans        &trans        &trans        &trans        &trans                               &trans  &trans  &trans                  &caps_word  &trans                 &kp ESC                    &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP     &trans     &none
+ &trans        &trans        &trans        &trans        &trans                               &trans  &trans  &trans                  &caps_word  &trans                  &trans                    &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP     &trans     &none
             >;
         };
 
